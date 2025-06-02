@@ -8,7 +8,7 @@
   "compatibleCoreVersion": "12",
   "systems": ["genesys"],
   "scripts": ["scripts/genesys-combat-enhancements.js"],
-  "manifest": "https://<your-username>.github.io/genesys-combat-enhancements/module.json",
+  "manifest": "https://stosart.github.io/genesys-combat-enhancements/module.json",
   "license": "MIT",
-  "readme": "https://<your-username>.github.io/genesys-combat-enhancements/README.md"
+  "readme": "https://stosart.github.io/genesys-combat-enhancements/README.md"
 }
