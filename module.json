@@ -3,15 +3,12 @@
   "title": "Genesys Combat Enhancements",
   "description": "A set of Foundry VTT automation hooks for Genesys RPG including auto crits, damage application, strain tracking, and power tier overrides.",
   "version": "1.0.0",
-  "author": "Christos N Argiannis.",
+  "author": "Your Name Here",
   "minimumCoreVersion": "10",
   "compatibleCoreVersion": "12",
-  "systems": ["Genesys"],
-  "scripts": [
-    "scripts/genesys-combat-enhancements.js"
-  ],
-  "manifest": "https://yourdomain.com/modules/genesys-combat-enhancements/module.json",
-  "download": "https://yourdomain.com/modules/genesys-combat-enhancements/genesys-combat-enhancements-v1.0.0.zip",
+  "systems": ["genesys"],
+  "scripts": ["scripts/genesys-combat-enhancements.js"],
+  "manifest": "https://<your-username>.github.io/genesys-combat-enhancements/module.json",
   "license": "MIT",
-  "readme": "https://yourdomain.com/modules/genesys-combat-enhancements/README.md"
+  "readme": "https://<your-username>.github.io/genesys-combat-enhancements/README.md"
 }
