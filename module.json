@@ -1,0 +1,18 @@
+{
+  "name": "genesys-combat-enhancements",
+  "title": "Genesys Combat Enhancements",
+  "description": "Automation for Genesys RPG in Foundry VTT: crits, damage, power strain, and more.",
+  "version": "1.0.0",
+  "author": "Stosart + ChatGPT",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "12",
+  "systems": [
+    "genesys"
+  ],
+  "scripts": [
+    "scripts/genesys-combat-enhancements.js"
+  ],
+  "manifest": "https://stosart.github.io/genesys-combat-enhancements/module.json",
+  "readme": "https://stosart.github.io/genesys-combat-enhancements/README.md",
+  "license": "MIT"
+}
